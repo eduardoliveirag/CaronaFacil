@@ -51,15 +51,22 @@ O projeto terá a estrutura definida da seguinte maneira.
 - Toda documentação produzida estará organizada no pastas "Documentacao"
   - Na pasta de Padrões adotados contém o arquivo
     - [Regras de Verificacao e Analise de Requisitos](./Documentacao/Padroes%20Adotados/Regras%20de%20Verificacao%20e%20Analise%20de%20Requisitos.md)
+  - Na pasta Requisitos contém:
+    - Pasta com os diagramas de Caso de Uso
+    - Documento de Requisito do sistema a ser desenvolvido.
 
 ```bash
   .
-  ├── CaronaFacil
-  │   └──
-  ├── Documentacao
-  ├── └── Padrões Adotados
-  ├────── └── Regras de Verificacao e Analise de Requisitos.md
-  └── README.md
+  ├─── CaronaFacil
+  ├─── README.md
+  └─── Documentacao
+      ├─── Padroes Adotados
+      │   └── Regras de Verificacao e Analise de Requisitos.md
+      └─── Requisitos
+          ├─── Diagramas de Casos de Uso
+          ├─── Documento de Requisitos.doc
+          └─── Documento de Requisitos.pdf
+
 ```
 
 ## :sunglasses: Desenvolvedores
