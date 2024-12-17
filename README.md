@@ -54,6 +54,11 @@ O projeto terá a estrutura definida da seguinte maneira.
   - Na pasta Requisitos contém:
     - Pasta com os diagramas de Caso de Uso
     - Documento de Requisito do sistema a ser desenvolvido.
+  - Na pasta de Diagramas contém
+    - Diagrama de Classes
+    - Diagrama de Pacotes
+    - Diagrama de Sequencia
+    - Diagramas de Implantação
 
 ```bash
   .
@@ -62,12 +67,47 @@ O projeto terá a estrutura definida da seguinte maneira.
   └─── Documentacao
       ├─── Padroes Adotados
       │   └── Regras de Verificacao e Analise de Requisitos.md
+      ├─── Diagramas
+      │   ├─── Diagrama de Classes
+      │   │   └───
+      │   ├─── Diagrama de Pacotes
+      │   │   └───
+      │   ├─── Diagrama de Sequencia
+      │   │   └───
+      │   └─── Diagrama de Implantacao
+      │       └─── 
       └─── Requisitos
           ├─── Diagramas de Casos de Uso
           ├─── Documento de Requisitos.doc
           └─── Documento de Requisitos.pdf
 
+
 ```
+
+## :books: Regras de Uso:
+
+- Regras de Commit:
+  - Estrutura do Commit​​​​​​​: assunto, corpo e rodapé
+    - Assunto: mensagens do commit
+    - Corpo (opcional) - usado para fornecer mais detalhes sobre as mudanças feitas no commit
+    - Rodapé (opcional) - lugar para referenciar questões relacionadas às alterações do commit
+
+- Regras de Branch 
+  - Utilizar a branch develop para realizar alterações no código.
+  - Somente realizar merge com a main após realizar os teste
+
+
+<br>
+
+
+## :computer: Práticas de codificação adotadas:
+
+- Usar e manter o padrão MVC;
+- Identar o código;
+- Nomear funções de maneira intuitiva;
+- Comentar somente códigos onde a lógica não é trivial;
+- Buscar a criação de loops que percoram somente o necessário;
+- Utilizar blocos try e catch para o tratamento de exceções.
 
 ## :sunglasses: Desenvolvedores
 
