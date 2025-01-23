@@ -19,6 +19,12 @@ Devem ser identificados com o prefixo "REQ-NF" seguido por um número sequencial
 
 
 Cada requisito deve ser objetivo e específico, evitando descrições vagas ou subjetivas. As declarações devem ser quantificáveis ou qualificáveis de forma a eliminar interpretações múltiplas.
+A seguir algum dos tópicos a serem evitados:
+
+- Vago: Termos como "confiável", "bom", "suficiente" não oferecem uma medida clara e podem ser interpretados de diferentes maneiras.
+- Subjetivo: Palavras como "importante", "adequado", "interessante" são baseadas em opiniões pessoais e não em critérios mensuráveis.
+- Ambíguo: Expressões como "frequentemente", "geralmente" ou "normalmente" não definem uma frequência específica, o que pode levar a confusões.
+- Qualificadores indefinidos: Termos como "algum", "muitos", "poucos", pois não especificam uma quantidade ou qualidade exata.
         
 - Exemplo:
 
