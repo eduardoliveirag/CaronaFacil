@@ -80,7 +80,7 @@ O projeto terá a estrutura definida da seguinte maneira.
       │   ├─── Diagrama de Sequencia
       │   │   └───
       │   └─── Diagrama de Implantacao
-      │       └─── 
+      │       └─── Diagrama de Implantação.pdf
       └─── Requisitos
           ├─── Diagramas de Casos de Uso
           ├─── Documento de Requisitos.doc
