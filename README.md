@@ -76,7 +76,7 @@ O projeto terá a estrutura definida da seguinte maneira.
       │   ├─── Diagrama de Classes
       │   │   └─── Diagrama de classes UML.pdf
       │   ├─── Diagrama de Pacotes
-      │   │   └───
+      │   │   └─── Diagrama de Pacotes.png
       │   ├─── Diagrama de Sequencia
       │   │   └─── Diagrama de Sequencia.pdf
       │   └─── Diagrama de Implantacao
