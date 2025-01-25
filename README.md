@@ -78,7 +78,7 @@ O projeto terá a estrutura definida da seguinte maneira.
       │   ├─── Diagrama de Pacotes
       │   │   └───
       │   ├─── Diagrama de Sequencia
-      │   │   └───
+      │   │   └─── Diagrama de Sequencia.pdf
       │   └─── Diagrama de Implantacao
       │       └─── Diagrama de Implantação.pdf
       └─── Requisitos
