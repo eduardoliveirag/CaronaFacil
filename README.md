@@ -32,9 +32,14 @@ O usuário motorista poderá oferecer caronas informando seu local de origem des
     <td>Back-end</td>
   </tr>
   <tr>
-    <td align ="center"><img alt="MariaDB" height="30" width="40" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" /></td>
-    <td><a href="https://mariadb.com" target="_blank">MariaDB</a></td>
+    <td align ="center"><img alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></td>
+    <td><a href="https://www.mysql.com/" target="_blank">Mysql 8.3</a></td>
     <td>Sistema de gerenciamento de banco de dados</td>
+  </tr>
+    <tr>
+    <td align ="center"><img alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></td>
+    <td><a href="https://laravel.com/docs/10.x/readme" target="_blank">Laravel 10.0 </a></td>
+    <td>Framework</td>
   </tr>
     <tr>
     <td align ="center"><img alt="MariaDB" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" /></td>
