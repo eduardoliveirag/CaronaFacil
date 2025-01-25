@@ -32,9 +32,14 @@ O usuário motorista poderá oferecer caronas informando seu local de origem des
     <td>Back-end</td>
   </tr>
   <tr>
-    <td align ="center"><img alt="MariaDB" height="30" width="40" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" /></td>
-    <td><a href="https://mariadb.com" target="_blank">MariaDB</a></td>
+    <td align ="center"><img alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></td>
+    <td><a href="https://www.mysql.com/" target="_blank">Mysql 8.3</a></td>
     <td>Sistema de gerenciamento de banco de dados</td>
+  </tr>
+    <tr>
+    <td align ="center"><img alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></td>
+    <td><a href="https://laravel.com/docs/10.x/readme" target="_blank">Laravel 10.0 </a></td>
+    <td>Framework</td>
   </tr>
     <tr>
     <td align ="center"><img alt="MariaDB" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" /></td>
@@ -69,13 +74,13 @@ O projeto terá a estrutura definida da seguinte maneira.
       │   └── Regras de Verificacao e Analise de Requisitos.md
       ├─── Diagramas
       │   ├─── Diagrama de Classes
-      │   │   └───
+      │   │   └─── Diagrama de classes UML.pdf
       │   ├─── Diagrama de Pacotes
-      │   │   └───
+      │   │   └─── Diagrama de Pacotes.png
       │   ├─── Diagrama de Sequencia
-      │   │   └───
+      │   │   └─── Diagrama de Sequencia.pdf
       │   └─── Diagrama de Implantacao
-      │       └─── 
+      │       └─── Diagrama de Implantação.pdf
       └─── Requisitos
           ├─── Diagramas de Casos de Uso
           ├─── Documento de Requisitos.doc
