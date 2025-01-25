@@ -74,7 +74,7 @@ O projeto terá a estrutura definida da seguinte maneira.
       │   └── Regras de Verificacao e Analise de Requisitos.md
       ├─── Diagramas
       │   ├─── Diagrama de Classes
-      │   │   └───
+      │   │   └─── Diagrama de classes UML.pdf
       │   ├─── Diagrama de Pacotes
       │   │   └───
       │   ├─── Diagrama de Sequencia
