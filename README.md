@@ -32,9 +32,14 @@ O usuário motorista poderá oferecer caronas informando seu local de origem des
     <td>Back-end</td>
   </tr>
   <tr>
-    <td align ="center"><img alt="MariaDB" height="30" width="40" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" /></td>
-    <td><a href="https://mariadb.com" target="_blank">MariaDB</a></td>
+    <td align ="center"><img alt="MySQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></td>
+    <td><a href="https://www.mysql.com/" target="_blank">Mysql 8.3</a></td>
     <td>Sistema de gerenciamento de banco de dados</td>
+  </tr>
+    <tr>
+    <td align ="center"><img alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></td>
+    <td><a href="https://laravel.com/docs/10.x/readme" target="_blank">Laravel 10.0 </a></td>
+    <td>Framework</td>
   </tr>
     <tr>
     <td align ="center"><img alt="MariaDB" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" /></td>
@@ -54,6 +59,11 @@ O projeto terá a estrutura definida da seguinte maneira.
   - Na pasta Requisitos contém:
     - Pasta com os diagramas de Caso de Uso
     - Documento de Requisito do sistema a ser desenvolvido.
+  - Na pasta de Diagramas contém
+    - Diagrama de Classes
+    - Diagrama de Pacotes
+    - Diagrama de Sequencia
+    - Diagramas de Implantação
 
 ```bash
   .
@@ -62,12 +72,47 @@ O projeto terá a estrutura definida da seguinte maneira.
   └─── Documentacao
       ├─── Padroes Adotados
       │   └── Regras de Verificacao e Analise de Requisitos.md
+      ├─── Diagramas
+      │   ├─── Diagrama de Classes
+      │   │   └─── Diagrama de classes UML.pdf
+      │   ├─── Diagrama de Pacotes
+      │   │   └─── Diagrama de Pacotes.png
+      │   ├─── Diagrama de Sequencia
+      │   │   └─── Diagrama de Sequencia.pdf
+      │   └─── Diagrama de Implantacao
+      │       └─── Diagrama de Implantação.pdf
       └─── Requisitos
           ├─── Diagramas de Casos de Uso
           ├─── Documento de Requisitos.doc
           └─── Documento de Requisitos.pdf
 
+
 ```
+
+## :books: Regras de Uso:
+
+- Regras de Commit:
+  - Estrutura do Commit​​​​​​​: assunto, corpo e rodapé
+    - Assunto: mensagens do commit
+    - Corpo (opcional) - usado para fornecer mais detalhes sobre as mudanças feitas no commit
+    - Rodapé (opcional) - lugar para referenciar questões relacionadas às alterações do commit
+
+- Regras de Branch 
+  - Utilizar a branch develop para realizar alterações no código.
+  - Somente realizar merge com a main após realizar os teste
+
+
+<br>
+
+
+## :computer: Práticas de codificação adotadas:
+
+- Usar e manter o padrão MVC;
+- Identar o código;
+- Nomear funções de maneira intuitiva;
+- Comentar somente códigos onde a lógica não é trivial;
+- Buscar a criação de loops que percoram somente o necessário;
+- Utilizar blocos try e catch para o tratamento de exceções.
 
 ## :sunglasses: Desenvolvedores
 
